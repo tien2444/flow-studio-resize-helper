@@ -1,0 +1,27 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+node_modules/
+helper/build/
+helper/work/
+helper/package/
+public/downloads/*.zip
+*.spec
+
+# Runtime data and user media
+data/
+exports/
+inputs/
+jobs.json
+settings.json
+targets.json
+used-labels.json
+
+# Never commit Drive/OAuth credentials
+oauth_client.json
+drive_oauth_token.json
+*.token.json
+.env*
+!.env.example

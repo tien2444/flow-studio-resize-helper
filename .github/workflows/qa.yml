@@ -1,0 +1,21 @@
+name: QA
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+      - run: pip install -r helper/src/requirements.txt
+      - run: python -m unittest discover -s helper -p 'test_*.py'
+      - run: npm run test:web

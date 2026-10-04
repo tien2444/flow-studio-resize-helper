@@ -1,0 +1,968 @@
+{
+  "ADR_GLP_1": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_GLP_1\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_GLP_1\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_GLP_1\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_GLP_1\\Creative Ads\\Image"
+  },
+  "ADR_GLP_1 - Copy": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_GLP_1 - Copy\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_GLP_1 - Copy\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_GLP_1 - Copy\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_GLP_1 - Copy\\Creative Ads\\Image"
+  },
+  "ADR_Mental_Health": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_Mental_Health\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_Mental_Health\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_Mental_Health\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_Mental_Health\\Creative Ads\\Image"
+  },
+  "ADR_Recipe": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_Recipe\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_Recipe\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_Recipe\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ADR_Recipe\\Creative Ads\\Image"
+  },
+  "Ads Asset": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Ads Asset\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Ads Asset\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Ads Asset\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Ads Asset\\Creative Ads\\Image"
+  },
+  "ai_Chat_IOS": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ai_Chat_IOS\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ai_Chat_IOS\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ai_Chat_IOS\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ai_Chat_IOS\\Creative Ads\\Thumbnail"
+  },
+  "AND_SecondPhone": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\AND_SecondPhone\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\AND_SecondPhone\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\AND_SecondPhone\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\AND_SecondPhone\\Creative Ads\\Image"
+  },
+  "Andoid_File_Recovery": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Andoid_File_Recovery\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Andoid_File_Recovery\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Andoid_File_Recovery\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Andoid_File_Recovery\\Creative Ads\\Image"
+  },
+  "Android_AI Chat_IAP": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI Chat_IAP\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI Chat_IAP\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI Chat_IAP\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI Chat_IAP\\Creative Ads\\Thumbnail"
+  },
+  "Android_AI_Chat": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Chat\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Chat\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Chat\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Chat\\Creative Ads\\Image"
+  },
+  "Android_AI_Home": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Home\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Home\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Home\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Home\\Creative Ads\\Image"
+  },
+  "Android_AI_Learn": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Learn\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Learn\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Learn\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Learn\\Creative Ads\\Image"
+  },
+  "Android_AI_Photo": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Photo\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Photo\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Photo\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Photo\\Creative Ads\\Image"
+  },
+  "Android_AI_Video": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Video\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Video\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Video\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_AI_Video\\Creative Ads\\Image"
+  },
+  "Android_Arteria_Blood_Pressure": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Arteria_Blood_Pressure\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Arteria_Blood_Pressure\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Arteria_Blood_Pressure\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Arteria_Blood_Pressure\\Creative Ads\\Thumbnail"
+  },
+  "Android_Authenticator": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Authenticator\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Authenticator\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Authenticator\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Authenticator\\Creative Ads\\Image"
+  },
+  "Android_Calorie": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Calorie\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Calorie\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Calorie\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Calorie\\Creative Ads\\Image"
+  },
+  "Android_CGT": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_CGT\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_CGT\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_CGT\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_CGT\\Creative Ads\\Image"
+  },
+  "Android_Clean_1": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Clean_1\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Clean_1\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Clean_1\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Clean_1\\Creative Ads\\Image"
+  },
+  "Android_Clean_2": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Clean_2\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Clean_2\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Clean_2\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Clean_2\\Creative Ads\\Image"
+  },
+  "Android_Doc1": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Doc1\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Doc1\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Doc1\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Doc1\\Creative Ads\\Image"
+  },
+  "Android_Document_Hybrid_2": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Document_Hybrid_2\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Document_Hybrid_2\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Document_Hybrid_2\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Document_Hybrid_2\\Creative Ads\\Image"
+  },
+  "Android_FaceScan": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_FaceScan\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_FaceScan\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_FaceScan\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_FaceScan\\Creative Ads\\Image"
+  },
+  "Android_Glitter": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Glitter\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Glitter\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Glitter\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Glitter\\Creative Ads\\Image"
+  },
+  "Android_Glucera_Blood_Sugar": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Glucera_Blood_Sugar\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Glucera_Blood_Sugar\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Glucera_Blood_Sugar\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Glucera_Blood_Sugar\\Creative Ads\\Image"
+  },
+  "Android_Heart_Rate": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Heart_Rate\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Heart_Rate\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Heart_Rate\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Heart_Rate\\Creative Ads\\Image"
+  },
+  "Android_iOS_Multiplatform": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_iOS_Multiplatform\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_iOS_Multiplatform\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_iOS_Multiplatform\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_iOS_Multiplatform\\Creative Ads\\Image"
+  },
+  "Android_IPTV": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_IPTV\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_IPTV\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_IPTV\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_IPTV\\Creative Ads\\Image"
+  },
+  "Android_LumosAI": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_LumosAI\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_LumosAI\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_LumosAI\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_LumosAI\\Creative Ads\\Image"
+  },
+  "Android_NoteShell": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_NoteShell\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_NoteShell\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_NoteShell\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_NoteShell\\Creative Ads\\Image"
+  },
+  "Android_Password_Manager": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Password_Manager\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Password_Manager\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Password_Manager\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Password_Manager\\Creative Ads\\Image"
+  },
+  "Android_PDF3": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_PDF3\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_PDF3\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_PDF3\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_PDF3\\Creative Ads\\Image"
+  },
+  "Android_Printer": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Printer\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Printer\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Printer\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Printer\\Creative Ads\\Image"
+  },
+  "Android_Remote Roku_Org": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Remote Roku_Org\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Remote Roku_Org\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Remote Roku_Org\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Remote Roku_Org\\Creative Ads\\Image"
+  },
+  "Android_Remote Universal": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Remote Universal\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Remote Universal\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Remote Universal\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Remote Universal\\Creative Ads\\Image"
+  },
+  "Android_Translate_2": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Translate_2\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Translate_2\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Translate_2\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Translate_2\\Creative Ads\\Image"
+  },
+  "Android_Translate_3": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Translate_3\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Translate_3\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Translate_3\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_Translate_3\\Creative Ads\\Image"
+  },
+  "Android_WO": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_WO\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_WO\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_WO\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Android_WO\\Creative Ads\\Image"
+  },
+  "Blood_Pressure": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Blood_Pressure\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Blood_Pressure\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Blood_Pressure\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Blood_Pressure\\Creative Ads\\Image"
+  },
+  "cast_glitter": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\cast_glitter\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\cast_glitter\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\cast_glitter\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\cast_glitter\\Creative Ads\\Image"
+  },
+  "Cast_Remote_TV": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Cast_Remote_TV\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Cast_Remote_TV\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Cast_Remote_TV\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Cast_Remote_TV\\Creative Ads\\Image"
+  },
+  "Clean_Android": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Clean_Android\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Clean_Android\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Clean_Android\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Clean_Android\\Creative Ads\\Image"
+  },
+  "DramaOn": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\DramaOn\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\DramaOn\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\DramaOn\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\DramaOn\\Creative Ads\\Image"
+  },
+  "DramaOn_iOS": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\DramaOn_iOS\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\DramaOn_iOS\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\DramaOn_iOS\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\DramaOn_iOS\\Creative Ads\\Image"
+  },
+  "Fitness": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Fitness\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Fitness\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Fitness\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Fitness\\Creative Ads\\Image"
+  },
+  "Health_Yoga_Master_iOS": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Health_Yoga_Master_iOS\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Health_Yoga_Master_iOS\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Health_Yoga_Master_iOS\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Health_Yoga_Master_iOS\\Creative Ads\\Image"
+  },
+  "IOS_AI_Home": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_AI_Home\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_AI_Home\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_AI_Home\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_AI_Home\\Creative Ads\\Image"
+  },
+  "iOS_AI_Learn": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Learn\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Learn\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Learn\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Learn\\Creative Ads\\Image"
+  },
+  "iOS_AI_Photo": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Photo\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Photo\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Photo\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Photo\\Creative Ads\\Image"
+  },
+  "iOS_AI_Video": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Video\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Video\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Video\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_AI_Video\\Creative Ads\\Image"
+  },
+  "ios_ai_video_gen": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ios_ai_video_gen\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ios_ai_video_gen\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ios_ai_video_gen\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ios_ai_video_gen\\Creative Ads\\Image"
+  },
+  "iOS_Arteria_BloodPressure": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Arteria_BloodPressure\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Arteria_BloodPressure\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Arteria_BloodPressure\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Arteria_BloodPressure\\Creative Ads\\Image"
+  },
+  "iOS_Authenticator": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Authenticator\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Authenticator\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Authenticator\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Authenticator\\Creative Ads\\Image"
+  },
+  "IOS_Authenticator_2FA": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Authenticator_2FA\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Authenticator_2FA\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Authenticator_2FA\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Authenticator_2FA\\Creative Ads\\Image"
+  },
+  "iOS_Car_Widget": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Car_Widget\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Car_Widget\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Car_Widget\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Car_Widget\\Creative Ads\\Image"
+  },
+  "iOS_Cast_for_Chromecast": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Cast_for_Chromecast\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Cast_for_Chromecast\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Cast_for_Chromecast\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Cast_for_Chromecast\\Creative Ads\\Image"
+  },
+  "iOS_Clean_iOS": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Clean_iOS\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Clean_iOS\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Clean_iOS\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Clean_iOS\\Creative Ads\\Image"
+  },
+  "iOS_Drama": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Drama\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Drama\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Drama\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Drama\\Creative Ads\\Image"
+  },
+  "ios_face_scanner": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ios_face_scanner\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ios_face_scanner\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ios_face_scanner\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\ios_face_scanner\\Creative Ads\\Thumbnail"
+  },
+  "iOS_FindMy": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_FindMy\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_FindMy\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_FindMy\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_FindMy\\Creative Ads\\Image"
+  },
+  "IOS_Glucera_Blood_Sugar": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Glucera_Blood_Sugar\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Glucera_Blood_Sugar\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Glucera_Blood_Sugar\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Glucera_Blood_Sugar\\Creative Ads\\Thumbnail"
+  },
+  "iOS_HeartRate": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_HeartRate\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_HeartRate\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_HeartRate\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_HeartRate\\Creative Ads\\Image"
+  },
+  "iOS_iCardiac": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_iCardiac\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_iCardiac\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_iCardiac\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_iCardiac\\Creative Ads\\Image"
+  },
+  "iOS_iKcal": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_iKcal\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_iKcal\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_iKcal\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_iKcal\\Creative Ads\\Image"
+  },
+  "IOS_INOTE_Book": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_INOTE_Book\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_INOTE_Book\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_INOTE_Book\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_INOTE_Book\\Creative Ads\\Image"
+  },
+  "iOS_Mental_Health": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Mental_Health\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Mental_Health\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Mental_Health\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Mental_Health\\Creative Ads\\Image"
+  },
+  "iOS_PDF_Editor": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_PDF_Editor\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_PDF_Editor\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_PDF_Editor\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_PDF_Editor\\Creative Ads\\Image"
+  },
+  "iOS_Printer": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Printer\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Printer\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Printer\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Printer\\Creative Ads\\Image"
+  },
+  "iOS_QRCode": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_QRCode\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_QRCode\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_QRCode\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_QRCode\\Creative Ads\\Image"
+  },
+  "IOS_Recipe": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Recipe\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Recipe\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Recipe\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Recipe\\Creative Ads\\Image"
+  },
+  "iOS_Remote_Roku": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Remote_Roku\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Remote_Roku\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Remote_Roku\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Remote_Roku\\Creative Ads\\Image"
+  },
+  "iOS_Screen_Mirror": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Screen_Mirror\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Screen_Mirror\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Screen_Mirror\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Screen_Mirror\\Creative Ads\\Image"
+  },
+  "iOS_SecondPhone": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_SecondPhone\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_SecondPhone\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_SecondPhone\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_SecondPhone\\Creative Ads\\Image"
+  },
+  "iOS_Snoozy Better_Sleep": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Snoozy Better_Sleep\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Snoozy Better_Sleep\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Snoozy Better_Sleep\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Snoozy Better_Sleep\\Creative Ads\\Image"
+  },
+  "IOS_Stress watch": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Stress watch\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Stress watch\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Stress watch\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Stress watch\\Creative Ads\\Image"
+  },
+  "iOS_SubSeek": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_SubSeek\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_SubSeek\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_SubSeek\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_SubSeek\\Creative Ads\\Thumbnail"
+  },
+  "iOS_TCG_Card_Identifier": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_TCG_Card_Identifier\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_TCG_Card_Identifier\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_TCG_Card_Identifier\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_TCG_Card_Identifier\\Creative Ads\\Image"
+  },
+  "iOS_Translate": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Translate\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Translate\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Translate\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_Translate\\Creative Ads\\Image"
+  },
+  "iOS_VPN_Multiplatform": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_VPN_Multiplatform\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_VPN_Multiplatform\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_VPN_Multiplatform\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\iOS_VPN_Multiplatform\\Creative Ads\\Image"
+  },
+  "IOS_Word_Office": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Word_Office\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Word_Office\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Word_Office\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\IOS_Word_Office\\Creative Ads\\Image"
+  },
+  "Math_Jam": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Math_Jam\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Math_Jam\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Math_Jam\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Math_Jam\\Creative Ads\\Image"
+  },
+  "MiraCast": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\MiraCast\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\MiraCast\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\MiraCast\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\MiraCast\\Creative Ads\\Image"
+  },
+  "My_iKame_Web": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\My_iKame_Web\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\My_iKame_Web\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\My_iKame_Web\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\My_iKame_Web\\Creative Ads\\Image"
+  },
+  "New folder (2)": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\New folder (2)\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\New folder (2)\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\New folder (2)\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\New folder (2)\\Creative Ads\\Image"
+  },
+  "Remote_Org_2": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Remote_Org_2\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Remote_Org_2\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Remote_Org_2\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Remote_Org_2\\Creative Ads\\Image"
+  },
+  "Stress_Watch": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Stress_Watch\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Stress_Watch\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Stress_Watch\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Stress_Watch\\Creative Ads\\Image"
+  },
+  "Tool": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Tool\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Tool\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Tool\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Tool\\Creative Ads\\Image"
+  },
+  "W2W_AI_Photo": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\W2W_AI_Photo\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\W2W_AI_Photo\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\W2W_AI_Photo\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\W2W_AI_Photo\\Creative Ads\\Image"
+  },
+  "Web_AI_DeepSearch": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_DeepSearch\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_DeepSearch\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_DeepSearch\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_DeepSearch\\Creative Ads\\Thumbnail"
+  },
+  "Web_AI_Learn": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_Learn\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_Learn\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_Learn\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_Learn\\Creative Ads\\Image"
+  },
+  "Web_AI_Video": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_Video\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_Video\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_Video\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_AI_Video\\Creative Ads\\Image"
+  },
+  "Web_Authenticator": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Authenticator\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Authenticator\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Authenticator\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Authenticator\\Creative Ads\\Image"
+  },
+  "Web_BetterMeal": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_BetterMeal\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_BetterMeal\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_BetterMeal\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_BetterMeal\\Creative Ads\\Image"
+  },
+  "Web_Clean": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Clean\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Clean\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Clean\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Clean\\Creative Ads\\Image"
+  },
+  "Web_FaceScan": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_FaceScan\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_FaceScan\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_FaceScan\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_FaceScan\\Creative Ads\\Image"
+  },
+  "Web_Heart_Rate_4": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Heart_Rate_4\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Heart_Rate_4\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Heart_Rate_4\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Heart_Rate_4\\Creative Ads\\Image"
+  },
+  "Web_HR4": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_HR4\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_HR4\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_HR4\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_HR4\\Creative Ads\\Image"
+  },
+  "Web_Recipe": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Recipe\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Recipe\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Recipe\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Recipe\\Creative Ads\\Image"
+  },
+  "Web_Remote_iOS": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Remote_iOS\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Remote_iOS\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Remote_iOS\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Remote_iOS\\Creative Ads\\Image"
+  },
+  "Web_Sleep": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Sleep\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Sleep\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Sleep\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Sleep\\Creative Ads\\Image"
+  },
+  "Web_StressWatch": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_StressWatch\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_StressWatch\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_StressWatch\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_StressWatch\\Creative Ads\\Image"
+  },
+  "Web_Sub_Manager": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Sub_Manager\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Sub_Manager\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Sub_Manager\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Sub_Manager\\Creative Ads\\Thumbnail"
+  },
+  "Web_Zodiac": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Zodiac\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Zodiac\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Zodiac\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Web_Zodiac\\Creative Ads\\Image"
+  },
+  "XTeam_Android_CoinIdentify": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_CoinIdentify\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_CoinIdentify\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_CoinIdentify\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_CoinIdentify\\Creative Ads\\Image"
+  },
+  "XTeam_Android_DMV": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_DMV\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_DMV\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_DMV\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_DMV\\Creative Ads\\Image"
+  },
+  "XTeam_Android_Drawart": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Drawart\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Drawart\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Drawart\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Drawart\\Creative Ads\\Image"
+  },
+  "XTeam_Android_LearnAI": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_LearnAI\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_LearnAI\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_LearnAI\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_LearnAI\\Creative Ads\\Image"
+  },
+  "XTeam_Android_Mygrowth": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Mygrowth\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Mygrowth\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Mygrowth\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Mygrowth\\Creative Ads\\Image"
+  },
+  "XTeam_Android_NOAA": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_NOAA\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_NOAA\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_NOAA\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_NOAA\\Creative Ads\\Image"
+  },
+  "XTeam_Android_Noor_Quran": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Noor_Quran\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Noor_Quran\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Noor_Quran\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Noor_Quran\\Creative Ads\\Image"
+  },
+  "XTeam_Android_Novels": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Novels\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Novels\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Novels\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Novels\\Creative Ads\\Image"
+  },
+  "XTeam_Android_Playable_Anime": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Playable_Anime\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Playable_Anime\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Playable_Anime\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Playable_Anime\\Creative Ads\\Image"
+  },
+  "XTeam_Android_Real_Chat": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Real_Chat\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Real_Chat\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Real_Chat\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Real_Chat\\Creative Ads\\Image"
+  },
+  "XTeam_Android_SkillForceAI": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_SkillForceAI\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_SkillForceAI\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_SkillForceAI\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_SkillForceAI\\Creative Ads\\Image"
+  },
+  "XTeam_Android_Stillgrove": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Stillgrove\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Stillgrove\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Stillgrove\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Stillgrove\\Creative Ads\\Image"
+  },
+  "XTeam_Android_Universal_AC": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Universal_AC\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Universal_AC\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Universal_AC\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_Universal_AC\\Creative Ads\\Image"
+  },
+  "XTeam_Android_zodiac": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_zodiac\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_zodiac\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_zodiac\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Android_zodiac\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_CoinIdentify": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_CoinIdentify\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_CoinIdentify\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_CoinIdentify\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_CoinIdentify\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_DMV": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_DMV\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_DMV\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_DMV\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_DMV\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_Drawart": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Drawart\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Drawart\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Drawart\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Drawart\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_LearnAI": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_LearnAI\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_LearnAI\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_LearnAI\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_LearnAI\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_Mygrowth": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Mygrowth\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Mygrowth\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Mygrowth\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Mygrowth\\Creative Ads\\Image"
+  },
+  "Xteam_iOS_NOAA": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Xteam_iOS_NOAA\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Xteam_iOS_NOAA\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Xteam_iOS_NOAA\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\Xteam_iOS_NOAA\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_Noor_Quran": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Noor_Quran\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Noor_Quran\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Noor_Quran\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Noor_Quran\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_Novels2": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Novels2\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Novels2\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Novels2\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Novels2\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_Playable_Anime": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Playable_Anime\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Playable_Anime\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Playable_Anime\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Playable_Anime\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_Real_Chat": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Real_Chat\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Real_Chat\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Real_Chat\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Real_Chat\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_SkillForceAI": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_SkillForceAI\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_SkillForceAI\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_SkillForceAI\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_SkillForceAI\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_Stillgrove": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Stillgrove\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Stillgrove\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Stillgrove\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Stillgrove\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_Universal_AC": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Universal_AC\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Universal_AC\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Universal_AC\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_Universal_AC\\Creative Ads\\Image"
+  },
+  "XTeam_iOS_zodiac": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_zodiac\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_zodiac\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_zodiac\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_iOS_zodiac\\Creative Ads\\Image"
+  },
+  "XTeam_Web_DMV": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_DMV\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_DMV\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_DMV\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_DMV\\Creative Ads\\Image"
+  },
+  "XTeam_Web_LearnAI": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_LearnAI\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_LearnAI\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_LearnAI\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_LearnAI\\Creative Ads\\Image"
+  },
+  "XTeam_Web_NOAA": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_NOAA\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_NOAA\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_NOAA\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_NOAA\\Creative Ads\\Image"
+  },
+  "XTeam_Web_Universal_AC": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_Universal_AC\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_Universal_AC\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_Universal_AC\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_Universal_AC\\Creative Ads\\Image"
+  },
+  "XTeam_Web_XTeam_MCP": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_XTeam_MCP\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_XTeam_MCP\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_XTeam_MCP\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_XTeam_MCP\\Creative Ads\\Image"
+  },
+  "XTeam_Web_zodiac": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_zodiac\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_zodiac\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_zodiac\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_Web_zodiac\\Creative Ads\\Image"
+  },
+  "XTeam_WebApp_Novels": {
+    "folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_WebApp_Novels\\Creative Ads\\Video",
+    "video_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_WebApp_Novels\\Creative Ads\\Video",
+    "image_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_WebApp_Novels\\Creative Ads\\Image",
+    "pinned": false,
+    "thumbnail_folder": "G:\\Shared drives\\iKame Apps - Creative\\Creative Asset - MKT\\XTeam_WebApp_Novels\\Creative Ads\\Image"
+  }
+}
