@@ -68,4 +68,4 @@ node --experimental-transform-types --test tests/*.test.ts
 
 Repository không chứa OAuth client, refresh token, access token, media người dùng hoặc dữ liệu job local. Đặt `oauth_client.json` và `drive_oauth_token.json` trong thư mục Application Support của từng máy; các file này đã được chặn bởi `.gitignore`.
 
-Repository dành cho nội bộ iKame và nên được giữ ở chế độ private.
+Mỗi người dùng cần tự cấu hình OAuth và quyền truy cập Google Drive trên máy của mình.
